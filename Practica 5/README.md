@@ -1,10 +1,10 @@
-# Práctica 1 - Blink LED
+# Práctica 5 – ADC
 
 ## Introducción
 La siguiente práctica es una de las más básicas en programación de microcontroladores, consiste en controlar el encendido y apagado de un LED cada determinado tiempo.
 
 ### Código
->[Código compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Blink_LED/Blink_LED_.c)
+>[Código compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%205/ADC/ADC.c)
 
 ### Materiales
 - 1 x Módulo X-TRAINER.
@@ -16,7 +16,7 @@ La siguiente práctica es una de las más básicas en programación de microcont
 - MICROSIDE v1.0 [Descargar](https://microside.com/?smd_process_download=1&download_id=9453)
 
 ### Diagrama de conexión 
-![Diagrama 1](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Diagrama/LED_X-TRAINERp8-BOOT-18F45K50.PNG)
+![Diagrama 1](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%205/Diagrama/ADC2_X-TRAINERp8-BOOT-18F45K50.PNG)
 
 
 
