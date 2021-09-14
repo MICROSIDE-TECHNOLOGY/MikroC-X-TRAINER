@@ -4,7 +4,7 @@
 En esta práctica se configura una salida y entrada digital en el microcontrolador para controlar el encendido y apagado de un LED a través de un push button, el LED se ilumina si el push button es presionado, de lo contrario se encuentra apagado.
 
 ### Código
->[Código compatible con el IDE de MikroC](hhttps://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%202/Push_button/Push_Button_.c)
+>[Código compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%202/Push_button/Push_Button_.c)
 
 ### Materiales
 - 1 x Módulo X-TRAINER.
