@@ -2,7 +2,7 @@
 Prácticas compatibles con el PIC 18F45K50 y el compilador de MikroC para la placa de aprendizaje X-TRAINER de Microside
 
 ## Práctica 1 - Blink LED
->[Práctica 1](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Blink_LED/Blink_LED_.c)
+>[Práctica 1](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/tree/main/Practica%201#pr%C3%A1ctica-1---blink-led)
 En esta práctica se utiliza el LED que se encuentra conectado al pin A1 del módulo X-TRAINER con el PIC18F4550/45K50. El pin A1 es configurado como salida y señal digital, y enciende o apaga cada determinado tiempo.
 
 ## Práctica 2 - Push Button
