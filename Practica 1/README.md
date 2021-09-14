@@ -3,8 +3,8 @@
 ## Introducción
 La siguiente práctica es una de las más básicas en programación de microcontroladores, consiste en controlar el encendido y apagado de un LED cada determinado tiempo.
 
-### Codigo
-[Codigo compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Blink_LED/Blink_LED_.c)
+### Código
+>[Código compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Blink_LED/Blink_LED_.c)
 
 ### Materiales
 - 1 x Módulo X-TRAINER.
