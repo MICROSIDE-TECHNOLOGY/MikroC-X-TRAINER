@@ -1,0 +1,4 @@
+main
+	ADC_Init_Advanced
+	ADC_Get_Sample
+		Delay_22us
