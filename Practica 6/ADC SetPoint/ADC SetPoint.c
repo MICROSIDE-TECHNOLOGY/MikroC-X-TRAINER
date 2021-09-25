@@ -3,7 +3,7 @@ Company:
 Microside Technology Inc.
 
 File Name:
-Blink_LED.mcppi
+ADC SetPoint.mcppi
 
 Product Revision  :  1
 Device            :  X-TRAINER

@@ -1,6 +1,6 @@
-#line 1 "C:/Users/grego/Downloads/Práctica-9-PIC-BOOT/Proyecto/PWM2.c"
+#line 1 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 9/LED RGB/PWM2.c"
 #pragma orgall 0x1FFF
-#line 21 "C:/Users/grego/Downloads/Práctica-9-PIC-BOOT/Proyecto/PWM2.c"
+#line 21 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 9/LED RGB/PWM2.c"
 void Set_PWM(void)
 {
  int i;

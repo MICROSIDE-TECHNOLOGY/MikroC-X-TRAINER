@@ -1,6 +1,6 @@
-#line 1 "C:/Users/grego/Downloads/Práctica-10-XCU-BOOTLOADER/PROJECT/Keypad.c"
+#line 1 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 10/Teclado matricial/Keypad.c"
 #pragma orgall 0x1FFF
-#line 17 "C:/Users/grego/Downloads/Práctica-10-XCU-BOOTLOADER/PROJECT/Keypad.c"
+#line 17 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 10/Teclado matricial/Keypad.c"
 char keypadPort at PORTB;
 
 

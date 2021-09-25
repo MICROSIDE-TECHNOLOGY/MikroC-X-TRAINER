@@ -1,6 +1,6 @@
-#line 1 "C:/Users/grego/Downloads/Práctica-6-PIC-BOOT/Proyecto/ADC SetPoint.c"
+#line 1 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 6/ADC SetPoint/ADC SetPoint.c"
 #pragma orgall 0x1FFF
-#line 16 "C:/Users/grego/Downloads/Práctica-6-PIC-BOOT/Proyecto/ADC SetPoint.c"
+#line 16 "C:/Users/grego/OneDrive/Documentos/GitHub/MikroC-X-TRAINER/Practica 6/ADC SetPoint/ADC SetPoint.c"
 unsigned int ValorPOT;
 
 void main() org 0x2000
