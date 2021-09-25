@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K50 -DL -O11111114 -fo64 -N"C:\Users\grego\Downloads\Práctica-9-PIC-BOOT\Proyecto\PWM2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\grego\Downloads\Práctica-9-PIC-BOOT\Proyecto\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "PWM2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_4xK50.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	PWM2.c
+diagnostics: 64	123	Compiled Successfully	PWM2.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 2022 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 2022 (99%)
+hint: 0	1144	Used ROM (bytes): 408 (1%)  Free ROM (bytes): 32360 (99%)	Used ROM (bytes): 408 (1%)  Free ROM (bytes): 32360 (99%)
+diagnostics: 0	125	Project Linked Successfully	PWM2.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'PWM2.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 25 sep. 2021, 11:20:34	PWM2.mcppi
