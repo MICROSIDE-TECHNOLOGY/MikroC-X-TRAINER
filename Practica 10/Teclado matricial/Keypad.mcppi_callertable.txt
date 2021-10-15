@@ -1,6 +1,0 @@
-main
-	SisInit
-	Keypad_Init
-	getKey
-		Keypad_Key_Press
-			Delay_1us
