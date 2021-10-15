@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K50 -LHF -DL -O11111114 -fo48 -N"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 6\ADC SetPoint\45K50\ADC SetPoint.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 6\ADC SetPoint\45K50\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "ADC SetPoint.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_4xK50.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ADC SetPoint.c
+diagnostics: 50	123	Compiled Successfully	ADC SetPoint.c
+diagnostics: 0	127	All files Compiled in 422 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 2023 (99%)	Used RAM (bytes): 4 (1%)  Free RAM (bytes): 2023 (99%)
+hint: 0	1144	Used ROM (bytes): 199 (1%)  Free ROM (bytes): 32569 (99%)	Used ROM (bytes): 199 (1%)  Free ROM (bytes): 32569 (99%)
+diagnostics: 0	125	Project Linked Successfully	ADC SetPoint.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'ADC SetPoint.mcppi' completed: 641 ms	 
+diagnostics: 0	103	Finished successfully: 14 oct. 2021, 11:57:09	ADC SetPoint.mcppi

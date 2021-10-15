@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Practica 11\45K50\LCD_45K50.mcppi
+Project1=Motor_DC.mcppi
+[ActiveProject]
+Index=1

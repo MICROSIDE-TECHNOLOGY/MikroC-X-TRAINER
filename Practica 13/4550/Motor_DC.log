@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -LHF -DL -O11111114 -fo48 -N"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 13\4550\Motor_DC.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 13\4550\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Motor_DC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Motor_DC.c
+diagnostics: 88	123	Compiled Successfully	Motor_DC.c
+diagnostics: 0	127	All files Compiled in 797 ms	 
+hint: 0	1144	Used RAM (bytes): 6 (1%)  Free RAM (bytes): 2021 (99%)	Used RAM (bytes): 6 (1%)  Free RAM (bytes): 2021 (99%)
+hint: 0	1144	Used ROM (bytes): 612 (2%)  Free ROM (bytes): 32156 (98%)	Used ROM (bytes): 612 (2%)  Free ROM (bytes): 32156 (98%)
+diagnostics: 0	125	Project Linked Successfully	Motor_DC.mcppi
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'Motor_DC.mcppi' completed: 1031 ms	 
+diagnostics: 0	103	Finished successfully: 14 oct. 2021, 15:07:50	Motor_DC.mcppi

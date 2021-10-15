@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -LHF -DL -O11111114 -fo48 -N"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 1\Blink_LED\4550\blink_led.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 1\Blink_LED\4550\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "blink_led.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	blink_led.c
+diagnostics: 34	123	Compiled Successfully	blink_led.c
+diagnostics: 0	127	All files Compiled in 171 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 2027 (99%)
+hint: 0	1144	Used ROM (bytes): 96 (1%)  Free ROM (bytes): 32672 (99%)	Used ROM (bytes): 96 (1%)  Free ROM (bytes): 32672 (99%)
+diagnostics: 0	125	Project Linked Successfully	blink_led.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'blink_led.mcppi' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 14 oct. 2021, 11:31:19	blink_led.mcppi

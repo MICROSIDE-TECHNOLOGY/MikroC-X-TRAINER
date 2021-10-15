@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=PIC16F1822\PROJECT\PWM.mcppi
+Project1=PMW.mcppi
+[ActiveProject]
+Index=1

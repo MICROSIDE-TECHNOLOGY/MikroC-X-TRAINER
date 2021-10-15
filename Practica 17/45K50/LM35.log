@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K50 -LHF -DL -O11111114 -fo48 -N"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 17\45K50\LM35.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\grego\OneDrive\Desktop\MikroC_Practicas\Practica 17\45K50\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "LM35.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_4xK50.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	LM35.c
+diagnostics: 67	123	Compiled Successfully	LM35.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 65 (3%)  Free RAM (bytes): 1962 (97%)	Used RAM (bytes): 65 (3%)  Free RAM (bytes): 1962 (97%)
+hint: 0	1144	Used ROM (bytes): 3064 (9%)  Free ROM (bytes): 29704 (91%)	Used ROM (bytes): 3064 (9%)  Free ROM (bytes): 29704 (91%)
+diagnostics: 0	125	Project Linked Successfully	LM35.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'LM35.mcppi' completed: 313 ms	 
+diagnostics: 0	103	Finished successfully: 14 oct. 2021, 17:04:48	LM35.mcppi

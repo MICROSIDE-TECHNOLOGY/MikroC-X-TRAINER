@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\Practica 1\Blink_LED\Blink_LED_.mcppi
+Project1=LCD_45K50.mcppi
+[ActiveProject]
+Index=1
