@@ -1,10 +1,10 @@
-# Práctica 1 - Blink LED
+# Prácticas X-TRAINER MikroC PRO for PIC
 
 ## Introducción
-La siguiente práctica es una de las más básicas en programación de microcontroladores, consiste en controlar el encendido y apagado de un LED cada determinado tiempo.
+Las siguientes prácticas pertenecen al área “Educativo” de Microside 
 
 ### Código
->[Código compatible con el IDE de MikroC](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Blink_LED/Blink_LED_.c)
+>[Código compatible con el IDE de MikroC](https://www.mikroe.com/mikroc-pic)
 
 ### Materiales
 - 1 x Módulo X-TRAINER.
@@ -12,11 +12,6 @@ La siguiente práctica es una de las más básicas en programación de microcont
 
 ### Software
 - Windows 7 o posterior.
-- PIC C Compiler v5.069 o posterior [Descargar](http://www.ccsinfo.com/ccsfreedemo.php)
 - MICROSIDE v1.0 [Descargar](https://microside.com/?smd_process_download=1&download_id=9453)
-
-### Diagrama de conexión 
-![Diagrama 1](https://github.com/MICROSIDE-TECHNOLOGY/MikroC-X-TRAINER/blob/main/Practica%201/Diagrama/LED_X-TRAINERp8-BOOT-18F45K50.PNG)
-
 
 
